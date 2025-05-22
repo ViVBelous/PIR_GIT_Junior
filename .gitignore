@@ -10,3 +10,8 @@
 *.vs/
 bin/
 obj/
+# Временные файлы Word и Excel
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.xls
